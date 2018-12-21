@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\parti1\parti1_tp2\bin\Debug\parti1_tp2.exe.config
+C:\Users\Dell\Desktop\parti1\parti1_tp2\bin\Debug\parti1_tp2.exe
+C:\Users\Dell\Desktop\parti1\parti1_tp2\bin\Debug\parti1_tp2.pdb
+C:\Users\Dell\Desktop\parti1\parti1_tp2\obj\Debug\parti1_tp2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\parti1\parti1_tp2\obj\Debug\parti1_tp2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\parti1\parti1_tp2\obj\Debug\parti1_tp2.exe
+C:\Users\Dell\Desktop\parti1\parti1_tp2\obj\Debug\parti1_tp2.pdb
+C:\Users\Moi\Desktop\parti1_tp2-master\bin\Debug\parti1_tp2.exe.config
+C:\Users\Moi\Desktop\parti1_tp2-master\bin\Debug\parti1_tp2.exe
+C:\Users\Moi\Desktop\parti1_tp2-master\bin\Debug\parti1_tp2.pdb
+C:\Users\Moi\Desktop\parti1_tp2-master\obj\Debug\parti1_tp2.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\parti1_tp2-master\obj\Debug\parti1_tp2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\parti1_tp2-master\obj\Debug\parti1_tp2.exe
+C:\Users\Moi\Desktop\parti1_tp2-master\obj\Debug\parti1_tp2.pdb
